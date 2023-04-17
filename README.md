@@ -1,6 +1,6 @@
 # flutter_core_toast
 
-A new Flutter project.
+一个flutter插件项目，专注于弹出原生toast
 
 ## Getting Started
 
